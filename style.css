@@ -1,0 +1,7 @@
+.custom-container {
+    height: 100%;
+    background-color: #040033;
+}
+.bike1 {
+    filter: grayscale(1);
+}
